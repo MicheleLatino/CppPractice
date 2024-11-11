@@ -1,9 +1,3 @@
-/******************************************************************
- Descrizione del Programma:
-   Ereditarietà e overriding
-
-Autore: prof. Michele Salvemini
-*******************************************************************/
 #include <iostream>
 using namespace std;
 
