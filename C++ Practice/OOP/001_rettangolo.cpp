@@ -1,15 +1,3 @@
-/******************************************************************
-                      Liceo Scienfitifo G.Galilei
-                      Indirizzo Scienze Applicate
-                          Corso di Informatica
-                       Anno Scolastico 2017/2018
-
-
-Descrizione del Programma:
-   Realizzazione della classe Rettangolo.
-
-Autore: prof. Michele Salvemini
-*******************************************************************/
 #include <iostream>
 using namespace std;
 
